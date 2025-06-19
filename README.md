@@ -3,8 +3,11 @@
 
 Project Overview 
 
-            This project focuses on building a Neural Machine Translation (NMT) application to translate English sentences into Tamil using a fine-tunedtransformer             model. The model is based on the Helsinki-NLP/opus-mt-en-dra architecture and was fine-tuned on a custom dataset to improve translation quality for                 domain-specific or enhanced linguistic fluency.
-            The final model is deployed using a Gradio web app hosted on Hugging Face Spaces for easy user interaction.
+            * This project focuses on building a Neural Machine Translation (NMT) application to translate English sentences into Tamil using a fine-tuned transformer model.
+            
+            *The model is based on the Helsinki-NLP/opus-mt-en-dra architecture and was fine-tuned on a custom dataset to improve translation quality for domain-specific usage and enhanced linguistic fluency.
+
+            *The final model is deployed using a Gradio web application, which is hosted on Hugging Face Spaces for easy user interaction and public access.
 
 ⚙️ Project Steps
 
